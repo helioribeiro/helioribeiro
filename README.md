@@ -8,7 +8,7 @@
 
 - 🎓 Da engenharia elétrica para a ciência de dados.
 - 🧐 Adaptativo a qualquer processo ou negócio.
-- 📢 Comunicativo!
+- 📢 Comunicativo e objetivo!
 
 ### CONTATOS 📭
 
