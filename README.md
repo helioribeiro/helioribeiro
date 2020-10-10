@@ -9,7 +9,6 @@
 - 🎓 Da engenharia elétrica para a ciência de dados.
 - 🧐 Adaptativo a qualquer processo ou negócio.
 - 📢 Comunicativo!
-- <img align="left" alt="Windows" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg"/>Usuário Windows.
 
 ### CONTATOS 📭
 
