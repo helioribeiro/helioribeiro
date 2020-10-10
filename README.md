@@ -3,7 +3,7 @@
 ### Hélio Ribeiro (Cientista de Dados) 👋
 
 <p align="center">
-  <img src="https://github.com/helioribeiro/helioribeiro/COVER_GIT.png" >
+  <img src="https://github.com/helioribeiro/helioribeiro/blob/main/COVER_GIT_HOME.png" >
 </p>
 
 
