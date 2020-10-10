@@ -39,7 +39,7 @@
 
 <img align="left" alt="Hadoop" width="26px" src="https://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png" />
 
-<img align="left" alt="HBase" width="26px" src="https://www.iconspng.com/uploads/hbase-logo.png" />
+<img align="left" alt="HBase" width="26px" src="https://www.brandeps.com/logo-download/H/HBase-logo-vector-01.svg" />
 
 <img align="left" alt="Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" /> <br>
 
@@ -61,9 +61,9 @@
 
 <img align="left" alt="Photoshop" width="26px" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="PowerPoint" width="26px" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo-0-2048x2048.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
