@@ -2,11 +2,12 @@
   <img src="https://github.com/helioribeiro/helioribeiro/blob/main/COVER_GIT_HOME.png" >
 </p>
 
+---
+
 ### SOBRE MIM
 
-- 🎓 **Da engenharia elétrica para a ciência de dados.**
-
-<br />
+- 🎓 Da engenharia elétrica para a ciência de dados.
+- 
 
 ### CONTATOS 📭
 
