@@ -1,16 +1,14 @@
-### EM CONSTRUÇÃO
-
-### Hélio Ribeiro (Cientista de Dados) 👋
-
-<p align="center">
+### <p align="center">
   <img src="https://github.com/helioribeiro/helioribeiro/blob/main/COVER_GIT_HOME.png" >
 </p>
 
+### SOBRE MIM
 
 - 🎓 **Da engenharia elétrica para a ciência de dados.**
 
+<br />
 
-### Contatos 📭
+### CONTATOS 📭
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/helioribeiropro/)
 
@@ -21,7 +19,7 @@
 <br />
 
 
-### Linguagens e Ferramentas 🔨🔧
+### LINGUAGENS E FERRAMENTAS 🔨🔧
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
