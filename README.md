@@ -7,7 +7,7 @@
 ### SOBRE MIM
 
 - 🎓 Da engenharia elétrica para a ciência de dados.
-- 
+- <img align="left" alt="python" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg" /> Usuário Windows (Eu realmente gosto do sistema 🤷🏻‍♂️).
 
 ### CONTATOS 📭
 
@@ -57,13 +57,13 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/768px-Power_bi_logo_black.svg.png" />
 
-<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" />
-
 <img align="left" alt="Photoshop" width="26px" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" />
 
 <img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" />
 
 <img align="left" alt="PowerPoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" />
+
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
