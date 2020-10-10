@@ -63,7 +63,7 @@
 
 <img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" />
 
-<img align="left" alt="PowerPoint" width="26px" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo-0-2048x2048.png" />
+<img align="left" alt="PowerPoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
