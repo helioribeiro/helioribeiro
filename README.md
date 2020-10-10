@@ -7,7 +7,9 @@
 ### SOBRE MIM
 
 - 🎓 Da engenharia elétrica para a ciência de dados.
-- <img align="left" alt="python" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg" /> Usuário Windows (Eu realmente gosto do sistema 🤷🏻‍♂️).
+- 🧐 Adaptativo a qualquer processo ou negócio.
+- 📢 Comunicativo!
+- <img align="left" alt="python" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg"/>Usuário Windows (Eu realmente gosto do sistema 🤷🏻‍♂️).
 
 ### CONTATOS 📭
 
@@ -57,7 +59,7 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/768px-Power_bi_logo_black.svg.png" />
 
-<img align="left" alt="Photoshop" width="26px" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" />
+<img align="left" alt="Azure" width="26px" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" />
 
 <img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" />
 
