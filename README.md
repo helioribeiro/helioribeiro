@@ -13,9 +13,9 @@
 
 ### LANGUAGES
 
-🇺🇸 Fluent
-🇧🇷 Fluente
-🇪🇸 Fluido
+🇺🇸 Fluent<br>
+🇧🇷 Fluente<br>
+🇪🇸 Fluido<br>
 🇳🇱 Leerling
 
 ---
