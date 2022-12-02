@@ -34,9 +34,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg">
       <img alt="Helio Ribeiro | LinkedIn" title="Helio Ribeiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg">
     </picture>
-</p>
-
-<p align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YagBxt8.png">
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gmail.svg">
