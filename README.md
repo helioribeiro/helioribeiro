@@ -24,9 +24,9 @@
 
 ### CONTACTS 📭
 
-[<img align="left" alt="Helio Ribeiro | LinkedIn" title="Helio Ribeiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg#gh-light-mode-only" />](https://www.linkedin.com/in/helioribeiropro/)
+[<img align="left" alt="Helio Ribeiro | LinkedIn" title="Helio Ribeiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg" />](https://www.linkedin.com/in/helioribeiropro/#gh-light-mode-only)
 
-[<img align="left" alt="Helio Ribeiro | Mail" title="Helio Ribeiro | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gmail.svg#gh-light-mode-only" />](mailto:helioribeiropro@gmail.com)
+[<img align="left" alt="Helio Ribeiro | Mail" title="Helio Ribeiro | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gmail.svg#gh-light-mode-only" />](mailto:helioribeiropro@gmail.com#gh-light-mode-only)
 
 <br />
 <br />
