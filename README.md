@@ -30,7 +30,7 @@
 
 [<img align="left" alt="Helio Ribeiro | LinkedIn" title="Helio Ribeiro | LinkedIn" width="22px" src="https://i.imgur.com/p3nRuUE.png" />](https://www.linkedin.com/in/helioribeiropro/#gh-dark-mode-only)
 
-[<img align="left" alt="Helio Ribeiro | Mail" title="Helio Ribeiro | Mail" width="22px" src="hhttps://i.imgur.com/YagBxt8.png" />](mailto:helioribeiropro@gmail.com#gh-dark-mode-only)
+[<img align="left" alt="Helio Ribeiro | Mail" title="Helio Ribeiro | Mail" width="22px" src="https://i.imgur.com/YagBxt8.png" />](mailto:helioribeiropro@gmail.com#gh-dark-mode-only)
 
 <br />
 <br />
