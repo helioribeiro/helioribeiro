@@ -11,12 +11,14 @@
 - 📢 Good storytelling is a super power!
 - 💼 Check out my portfolio by clicking on the cover image!
 
+---
+
 ### LANGUAGES
 
-🇺🇸 Fluent<br>
-🇧🇷 Fluente<br>
-🇪🇸 Fluido<br>
-🇳🇱 Leerling
+- 🇺🇸 Fluent
+- 🇧🇷 Fluente
+- 🇪🇸 Fluido
+- 🇳🇱 Leerling
 
 ---
 
