@@ -1,5 +1,5 @@
 ### <p align="center">
-  <a href="https://helioribeiro.github.io/" target="_blank"><img src="https://github.com/helioribeiro/helioribeiro/blob/main/COVER_GIT_HOME.png" alt="Data Science Portfolio by Helio Ribeiro" title="Data Science Portfolio by Helio Ribeiro">
+  <a href="https://helioribeiro.github.io/"><img src="https://github.com/helioribeiro/helioribeiro/blob/main/COVER_GIT_HOME.png" alt="Data Science Portfolio by Helio Ribeiro" title="Data Science Portfolio by Helio Ribeiro" target="_blank">
 </a></p>
 
 ---
