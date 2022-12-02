@@ -32,6 +32,13 @@
 
 [<img align="left" media="(prefers-color-scheme: dark)" alt="Helio Ribeiro | Mail" title="Helio Ribeiro | Mail" width="22px" src="https://i.imgur.com/YagBxt8.png" />](mailto:helioribeiropro@gmail.com)
 
+<p align="left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/p3nRuUE.png">
+      <source media="(prefers-color-scheme: light)" srcset="ttps://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg">
+      <img alt="Helio Ribeiro | LinkedIn" title="Helio Ribeiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg">
+    </picture>
+</p>
 
 <br />
 <br />
