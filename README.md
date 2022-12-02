@@ -9,6 +9,11 @@
 - 🧐 Result driven.
 - 🎓 From Engineering to Data Science.
 - 📢 Good storytelling is a super power!
+- 💼 Check out my portfolio by clicking on the cover image!
+
+🇺🇸🇧🇷🇪🇸 English, Portuguese and Spanish fluent!
+
+---
 
 ### CONTACTS 📭
 
