@@ -7,7 +7,7 @@
 ### ABOUT ME 🙋🏻‍♂️
 
 - 🧐 Result driven.
-- 🎓 From Engineering to Data Science.
+- 🎓 Passionate about good products!
 - 📢 Good storytelling is a super power!
 - 💼 Check out my portfolio by clicking on the cover image!
 
