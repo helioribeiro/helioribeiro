@@ -18,6 +18,6 @@
 - 🇧🇷 Portuguese - Native
 - 🇺🇸 English - Fluent/C2
 - 🇪🇸 Spanish - Fluent/C2
-- 🇳🇱 Dutch - A2
+- 🇳🇱 Dutch - B2
 
 ---
